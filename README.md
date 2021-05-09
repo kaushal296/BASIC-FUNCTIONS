@@ -1,5 +1,5 @@
 # BASIC-FUNCTIONS
-Absolute, Filter, Map
+Absolute, Boolean, Filter, Map
 #abs(): Returns the absolute value of a number.
 #  integer number     
 integer = -20
